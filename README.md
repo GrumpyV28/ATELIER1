@@ -75,6 +75,5 @@ id_categorie : clé étrangère en ref. à id de categorie</code>
 
 
 Nouvelles fonctionnalités ajoutées : Partie Admin
-ID: matt    MDP:mroy28
 
 
