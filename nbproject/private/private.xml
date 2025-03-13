@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/wamp64/www/Testmediatek/src/Controller/FormationsController.php</file>
+            <file>file:/C:/wamp64/www/Testmediatek/migrations/Version20241012180435.php</file>
+            <file>file:/C:/wamp64/www/Testmediatek/src/Controller/PlaylistsController.php</file>
+            <file>file:/C:/wamp64/www/Testmediatek/src/Controller/admin/AdminPlaylistsController.php</file>
+            <file>file:/C:/wamp64/www/Testmediatek/public/index.php</file>
+            <file>file:/C:/wamp64/www/Testmediatek/templates/_admin.playlist.form.html.twig</file>
+            <file>file:/C:/wamp64/www/Testmediatek/templates/admin/admin.categories.html.twig</file>
+            <file>file:/C:/wamp64/www/Testmediatek/README.md</file>
+            <file>file:/C:/wamp64/www/Testmediatek/config/packages/security.yaml</file>
+            <file>file:/C:/wamp64/www/Testmediatek/.env.test</file>
+            <file>file:/C:/wamp64/www/Testmediatek/src/Entity/User.php</file>
+            <file>file:/C:/wamp64/www/Testmediatek/config/preload.php</file>
+            <file>file:/C:/wamp64/www/Testmediatek/.env</file>
+            <file>file:/C:/wamp64/www/Testmediatek/src/Controller/LoginController.php</file>
+            <file>file:/C:/wamp64/www/Testmediatek/config/routes/security.yaml</file>
+            <file>file:/C:/wamp64/www/Testmediatek/src/Controller/admin/AdminCategoriesController.php</file>
+            <file>file:/C:/wamp64/www/Testmediatek/templates/_admin.formation.form.html.twig</file>
+            <file>file:/C:/wamp64/www/Testmediatek/templates/basefront.html.twig</file>
+            <file>file:/C:/wamp64/www/Testmediatek/templates/login/index.html.twig</file>
+            <file>file:/C:/wamp64/www/Testmediatek/config/routes.yaml</file>
+            <file>file:/C:/wamp64/www/Testmediatek/src/Controller/admin/AdminFormationsController.php</file>
+        </group>
+    </open-files>
+</project-private>
